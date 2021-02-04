@@ -71,15 +71,7 @@ lineChartView.setCubePoint(isCube);
 lineChartView.playAnim();
 ```
 
-## 关于我
 
-如果对你有帮助，请 star 一下，然后 follow 我，给我增加一下分享动力，谢谢！
-
-如果你有什么疑问或者问题，可以提交 issue 和 request，发邮件给我 jeanboy@foxmail.com 。
-
-或者加入下面的 QQ 群来一起学习交流。
-
-<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=0b505511df9ead28ec678df4eeb7a1a8f994ea8b75f2c10412b57e667d81b50d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Android技术进阶：386463747" title="Android技术进阶：386463747"></a>
 
 ## License
 
